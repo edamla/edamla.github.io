@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Anasayfa
 nav_order: 1
 description: "Açık kaynak olarak hazırlanan Proje ve sayfalarımızla alakalı olarak dökümantasyon sayfamız"
 permalink: /
@@ -16,9 +16,9 @@ Açık kaynak olarak hazırlanan Proje ve sayfalarımızla alakalı olarak dök�
 
 ---
 
-## Getting started
+## Başlangıç
 
-### Dependencies
+### Bağımlılıklar
 
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
 
