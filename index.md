@@ -9,10 +9,10 @@ permalink: /
 # E-Damla Open Source | Hoşgeldiniz
 {: .fs-9 }
 
-Açık kaynak olarak hazırlanan Proje ve sayfalarımızla alakalı olarak dökümantasyonlarımızı bulabilirsiniz.
+Açık kaynağın herkesin faydasına olduğuna inanıyoruz. Bilginin açık ve özgürce ulaşılabilir olması sorunları çözerek işbirliğini ve teknolojinin gelişimini sağlayacağına inanıyoruz.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Başlayalım](#başlangıç){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHub'da bizi inceleyin](https://github.com/edamla/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -20,7 +20,7 @@ Açık kaynak olarak hazırlanan Proje ve sayfalarımızla alakalı olarak dök�
 
 ### Bağımlılıklar
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
+Bu sayfa "Just the Docs" projesinden oluşturulmuştur ve [Jekyll](https://jekyllrb.com) ile çalışır, Jekyll bir statik sayfa oluşturucudur ve Ruby dilinde yazılmıştır. Detaylı bilgi için hızlı başlangıç [dosyalarına](https://jekyllrb.com/docs/) bakabilirsiniz. Just the Docs teması herhangi bir özel Jekyll eklentisine gereksinim duymaz. Ve standart Github Pages ile oluşturulur.
 
 ### Quick start: Use as a GitHub Pages remote theme
 
